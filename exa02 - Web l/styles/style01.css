@@ -1,0 +1,19 @@
+label{
+    background-color: rgb(170, 203, 255);
+    border: 1px black solid;
+    display: inline-block;
+    padding: 1px;
+    width: 85px;
+}
+
+input{
+    background-color: rgb(250, 249, 193);
+}
+
+
+.informacionInput {
+    margin-bottom: 10px;
+}
+label, input {
+    margin-right: 5px;
+}
